@@ -31,4 +31,4 @@ permalink: /about/
 [ctf-profile-link]: https://ctftime.org/user/95139
 [ctf-team-link]: https://ctftime.org/team/138692
 [github-profile-link]: https://github.com/damned-me
-[twitter-profile-link]: https://twitter.com/damned_me
+[twitter-profile-link]: https://twitter.com/damned_me_
