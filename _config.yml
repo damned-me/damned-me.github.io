@@ -16,7 +16,6 @@
 title: damned-me
 email: damned-me@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-
   damned's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://damned.me" # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,3 +39,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections_dir: collections
+
+collections:
+  writeups:
+    output: true
+  

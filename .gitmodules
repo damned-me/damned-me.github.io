@@ -1,0 +1,3 @@
+[submodule "collections/_writeups"]
+	path = collections/_writeups
+	url = https://github.com/damned-me/ctf-writeups
