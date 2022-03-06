@@ -19,6 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   damned's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://damned.me" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: damned-me 
 twitter_username: damned_me_ 
 github_username:  damned-me
 
@@ -27,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,9 +43,12 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Google Analytics
+google_analytics: G-RD8R2HHF1Q
+
+# Collections
 collections_dir: collections
 
 collections:
   writeups:
     output: true
-  
