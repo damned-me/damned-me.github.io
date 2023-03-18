@@ -43,9 +43,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Google Analytics
-google_analytics: G-RD8R2HHF1Q
-
 # Collections
 collections_dir: collections
 
