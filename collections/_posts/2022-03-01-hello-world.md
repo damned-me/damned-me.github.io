@@ -22,4 +22,4 @@ Last disclaimer I would like to make is that my native language is not English, 
 Visit the [about section][about-link] to find out more about me.
 
 [ctf-team-link]: https://ctftime.org/team/138692
-[about-link]: https://damned.me/about
+[about-link]: /about
