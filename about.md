@@ -3,32 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-👋 Hi there, I'm damned or dmnd for short
 
-⚡ I'm [CTF player][ctf-profile-link] with the [dcode-us][ctf-team-link] team
+## 👋 Hi there,
 
-🌱 I'm studying security of computer systems and networks
+I'm damned, or dmd, for short.
 
-✍ Languages I've worked with
+I work in cyber security and love tech
 
-- C/C++
-- C#
-- Python
-- Java
-- JavaScript
-- PHP
-
-💻 Environments I work on
-
-- Linux
-- Windows
-
-🔗 Other Links
-
+Other Links:
 - [GitHub][github-profile-link]
-- [Twitter][twitter-profile-link]
+- [X][twitter-profile-link]
 
-[ctf-profile-link]: https://ctftime.org/user/95139
-[ctf-team-link]: https://ctftime.org/team/138692
 [github-profile-link]: https://github.com/damned-me
 [twitter-profile-link]: https://twitter.com/damned_me_
